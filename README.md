@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Alvin Siphosenkosi Moyo 👋
 
-<!--
-**AlvinSMoyo/AlvinSMoyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+I am passionate about applying machine learning, data analytics, and AI-driven solutions to real-world business problems.  
+Currently transitioning from a strong finance, banking, and compliance background into the field of data science and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Areas of Interest:
+- Machine Learning (Classification, Clustering, Predictive Modeling)
+- Data Analytics & Business Intelligence
+- Customer Segmentation and Marketing Analytics
+- AI-driven Automation
+- Real-world problem solving using Data Science
+
+🚀 Current Focus:
+- Building machine learning models aligned with business objectives
+- Delivering clean, reproducible project pipelines
+- Sharing applied projects for banking, marketing, and customer analytics
+
+📚 Recent Projects:
+- **Term Deposit Subscription Prediction** — Two-phase machine learning workflow (pre-call and post-call modeling)
+
+📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/alvin-moyo-5a711021)
+- [GitHub Portfolio](https://github.com/AlvinSMoyo)
+
+---
+
+> "Turning data into actionable insights and AI into real-world impact."
