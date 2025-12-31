@@ -1,29 +1,67 @@
-# Hi there, I'm Alvin Siphosenkosi Moyo 👋
+Welcome to my GitHub 👋
 
-Welcome to my GitHub!
+I build applied data science and AI solutions that translate complex data into
+clear, actionable business insight.
 
-I am passionate about applying machine learning, data analytics, and AI-driven solutions to real-world business problems.  
-Currently transitioning from a strong finance, banking, and compliance background into the field of data science and artificial intelligence.
+My background spans over 16 years in finance, banking, and compliance, and I now
+focus on designing end-to-end analytics and AI systems that align with real
+business objectives — from executive reporting and predictive modelling to
+LLM-powered decision support and multimodal AI pipelines.
 
-🔍 Areas of Interest:
-- Machine Learning (Classification, Clustering, Predictive Modeling)
-- Data Analytics & Business Intelligence
-- Customer Segmentation and Marketing Analytics
-- AI-driven Automation
-- Real-world problem solving using Data Science
-
-🚀 Current Focus:
-- Building machine learning models aligned with business objectives
-- Delivering clean, reproducible project pipelines
-- Sharing applied projects for banking, marketing, and customer analytics
-
-📚 Recent Projects:
-- **Term Deposit Subscription Prediction** — Two-phase machine learning workflow (pre-call and post-call modeling)
-
-📫 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/alvin-moyo-5a711021)
-- [GitHub Portfolio](https://github.com/AlvinSMoyo)
+Formal training includes a **Postgraduate Diploma in Data Science** and MinnaLearn’s
+*Elements of AI for Business*, complementing the applied, project-driven work presented here.
 
 ---
 
-> "Turning data into actionable insights and AI into real-world impact."
+🔍 Areas of Focus
+
+- Applied Machine Learning (classification, regression, imbalance handling)
+- Business Intelligence & Executive Dashboards (Tableau, Power BI)
+- Predictive Analytics & Forecasting
+- Customer Analytics, Churn & Marketing Strategy
+- Large Language Models (LLMs) for evaluation and decision support
+- Computer Vision, OCR, and Speech AI
+- Reproducible, business-ready data pipelines
+
+---
+
+🚀 What I Work On
+
+- Designing ML pipelines optimised for business trade-offs, not just accuracy
+- Building executive-level dashboards supported by validated data
+- Using Python to extend BI tools where they fall short
+- Applying LLMs for structured reasoning, ranking, and explanation
+- Developing multi-stage AI systems that combine vision, language, and speech
+- Publishing well-documented, real-world projects suitable for stakeholders
+
+---
+
+📚 Selected Projects
+
+- **[Term Deposit Subscription Prediction](https://github.com/AlvinSMoyo/8Pl5KRkI1SP3AL13)**  
+  Two-phase ML workflow (pre-call & post-call) using imbalance-aware modelling
+  and business-aligned evaluation.
+
+- **[LLM-Powered Candidate Ranking (Potential Talents)](https://github.com/AlvinSMoyo/NLFxbI8E2LD5JDPY)**  
+  Multi-LLM evaluation and ranking system using GPT-class models and
+  open-source alternatives, with reconciliation logic and explainability.
+
+- **[MonReader – Multimodal Accessibility Pipeline](https://github.com/AlvinSMoyo/dAxZolOzwXKGMeYp)**  
+  Computer vision, OCR, LLM reasoning, and text-to-speech for document
+  accessibility and audio generation.
+
+- **[Executive BI & Forecasting (TechHub Retail)](https://github.com/AlvinSMoyo/Uptrail-Internship)**  
+  Tableau executive dashboard supported by Python data validation and
+  forward-looking revenue forecasting.
+
+---
+
+📫 Let’s Connect
+
+- LinkedIn
+- GitHub Projects & Repositories
+
+---
+
+> *Turning analytics and AI into decisions executives can act on.*
+
